@@ -1,1 +1,9 @@
-# 🌟 팀스파르타 [KDC] Redis와 Kafka를 활용해 이커머스 서비스 만들기
+# 이커머스 미션4
+
+## 설치
+
+아래 명령어를 입력해 Kafka, Redis, MySQL을 설치합니다.
+
+```shell
+docker compose up --build -d
+```
